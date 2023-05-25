@@ -10,7 +10,7 @@ My name is Kalani Tran and I will be an incoming 3rd-year Computer Science stude
        HTML
 
 ### How to reach me:
-[![Kalanikekai Tran](https://img.shields.io/badge/Linkedin-%230175C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalanikekai-tran/)
+[![Kalanikekai Tran](https://img.shields.io/badge/Linkedin-%230175C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalanikekai-tran-9678b2217/)
 [![Email](https://img.shields.io/badge/Email-%230175C2.svg?style=for-the-badge&logo=icloud&logoColor=white)](mailto:kalanikekaitran@gmail.com)
 
 ### Here is everything I have contributed to!
