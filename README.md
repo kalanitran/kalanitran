@@ -1,6 +1,6 @@
 ### Meet Kalani! 👋
 
-My name is Kalani Tran and I will be an incoming 3rd-year Computer Science student at SDSU. I am versed in Java and C++, and use software/IDE's including IntelliJ, CLion, and Visual Studio. I hope to use my skills in OOP to pursue front-end development, and listed below you can find repositories of mine from academic and personal projects. 
+My name is Kalani Tran and I will be an incoming 4th-year Computer Science student at SDSU. I am versed in Java and C++, and use software/IDE's including IntelliJ, CLion, and Visual Studio. I hope to use my skills in OOP to pursue front-end development, and listed below you can find repositories of mine from academic and personal projects. 
 
 ### 🔭 I’m currently working on
        Discord Music Bot Personal Project
